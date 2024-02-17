@@ -52,7 +52,7 @@ a, a:hover, a:active {
 /* Styles
 ---------------------------------*/
 body {
-    background: #cccccc;
+    background: #808080;
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: normal;
@@ -96,7 +96,7 @@ p {
 ---------------------------------*/
 
 #header_wrapper {
-    background: #CCCCCC;
+    background: #808080;
     padding: 20px 0px;
 }
 
@@ -124,7 +124,7 @@ p {
 }
 
 .navbar {
-    border: 0px solid #fff;
+    border: 0px solid #808080;
     min-height: 40px;
     margin-bottom: 0px;
 }
@@ -246,7 +246,7 @@ p {
 
 .top_left_cont h2 {
     font-size: 40px;
-    color: #FFF;
+    color: #808080;
     line-height: 52px;
     margin: 0 0 26px 0;
     font-family: 'Raleway', sans-serif;
