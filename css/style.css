@@ -751,11 +751,11 @@ img {
     color: #55acee;
 }
 
-.team_box ul li a.fa-facebook:hover {
+.team_box ul li a.fa-instagram:hover {
     color: #3b5998;
 }
 
-.team_box ul li a.fa-pinterest:hover {
+.team_box ul li a.fa-linkedin-square:hover {
     color: #cb2026;
 }
 
@@ -904,11 +904,11 @@ img {
     color: #55acee;
 }
 
-.facebook a:hover {
+.instagram a:hover {
     color: #3b5998;
 }
 
-.pinterest a:hover {
+.linkedin a:hover {
     color: #cb2026;
 }
 
